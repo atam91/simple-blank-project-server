@@ -1,6 +1,7 @@
-# Initial
+# Create Database Instruction
     sudo -u postgres psql
 
+    ## Check databases & users ##
     \l
     \du
     
@@ -9,3 +10,4 @@
     CREATE USER simple_blank_project WITH ENCRYPTED PASSWORD 'qweqwe';        
     GRANT ALL PRIVILEGES ON DATABASE simple_blank_project TO simple_blank_project;
     
+    \q

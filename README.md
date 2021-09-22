@@ -10,8 +10,8 @@ PostgreSQL/knex.js
 [Create psql db instruction](/PREPARE_DB.md)
 
 ## Get dependencies
-    npm i
-    npm i -g pm2 knex
+    npm install
+    npm install -g pm2 knex
 
 ## Prepare local configs
     cp config/local{.example,}.js       ## OR       cp config/local{.prod,}.js
