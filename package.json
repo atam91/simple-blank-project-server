@@ -11,11 +11,11 @@
     "express": "~4.16.0",
     "helmet": "^3.23.3",
     "http-errors": "~1.6.2",
-    "knex": "^0.20.15",
+    "knex": "^2.4.2",
     "knex-stringcase": "^1.4.3",
     "morgan": "~1.9.0",
     "pbkdf2-password": "^1.2.1",
-    "pg": "^8.4.0",
+    "pg": "^8.11.0",
     "uid-safe": "^2.1.5",
     "winston": "^3.3.3"
   }
